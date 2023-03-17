@@ -7,4 +7,5 @@ if __name__ == '__main__':
 
     from src.com.python.study.classStudy.Smain2 import test
     test()
+    print("git test")
 
